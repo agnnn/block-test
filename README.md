@@ -1,2 +1,2 @@
 # block-test
-Initial truffle testing on Blockchain, with webhookup
+Initial truffle testing on Blockchain.
